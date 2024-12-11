@@ -1,21 +1,30 @@
 # AdventOfSQL2024 🚀
 
-This repository contains my solutions for the **Advent of SQL** challenges. Each challenge's solution is in its own SQL file.
+# Advent of SQL Solutions
+
+This repository contains my solutions for the **Advent of SQL** challenges. Each folder includes the challenge question as a separate file and the solution with in-line comments explaining the approach used to solve it.
 
 ---
 
-## 📁 Files
-- `day1.sql` - Solution for Day 1
-- `day2.sql` - Solution for Day 2
-- `day3.sql` - Solution for Day 3
-- ...
+## 📁 Repository Structure
+Each folder represents a day's challenge:
+
+- `day01/`
+  - `question.txt` - Contains the challenge description.
+  - `solution.sql` - Contains the challenge solution with in-line explanations as comments.
+
+- `day02/`
+  - `question.txt`
+  - `solution.sql`
+
+...
 
 ---
 
 ## 📚 About
-**Advent of SQL** is a 24-day series of SQL challenges, with a new Christmas-themed challenge each day from December 1st to December 24th. This repository contains my solutions for each day's challenge.
+**Advent of SQL** is a 24-day series of SQL challenges with a Christmas theme. From December 1st to December 24th, a new challenge is provided daily. Each challenge includes a database dump to work with and is designed to enhance SQL skills.
 
 ---
 
 ## 🔗 Connect
-Feel free to reach out or suggest improvements!
+Feel free to explore, learn, or suggest improvements.
