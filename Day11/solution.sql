@@ -1,0 +1,3 @@
+with with_season_no_cte as (select *,case when season='Spring' then 1 when season='Summer' then 2 when season='Fall' then 3 else 4 end as season_no from treeharvests)
+select field_name,harvest_year,season, round(avg(trees_harvested) over(partition by field_name,harvest_year order by field_name,harvest_year,season_no rows between 2 preceding and current row),2) as three_season_moving_avg from with_season_no_cte
+order by three_season_moving_avg desc;
