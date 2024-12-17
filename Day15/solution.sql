@@ -1,0 +1,1 @@
+select place_name from sleigh_locations s join areas a on st_contains(a.polygon::geometry,s.coordinate::geometry);
