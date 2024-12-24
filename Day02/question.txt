@@ -1,0 +1,21 @@
+These tables contain pieces of a child's Christmas wish, but they're all mixed up with magical interference from the Northern Lights! We need to:
+
+Filter out the holiday sparkles (noise)
+Combine Binky and Blinky's tables
+Decode the values back into regular letters
+Make sure everything's in the right order!
+Valid characters
+All lower case letters a - z
+All upper case letters A - Z
+Space
+!
+"
+'
+(
+)
+,
+-
+.
+:
+;
+?
