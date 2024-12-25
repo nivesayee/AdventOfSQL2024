@@ -2,7 +2,7 @@
 
 # Advent of SQL Solutions
 
-This repository contains my solutions for the **Advent of SQL** challenges. Each folder includes the challenge question as a separate file and the solution with in-line comments explaining the approach used to solve it.
+This repository contains my solutions for the **Advent of SQL** challenges. Each folder includes the challenge question as a separate file, create and insert statements as another file and the solution with in-line comments explaining the approach used to solve it.
 
 ---
 
@@ -10,10 +10,12 @@ This repository contains my solutions for the **Advent of SQL** challenges. Each
 Each folder represents a day's challenge:
 
 - `day01/`
+  - `create_and_populate.sql` - Contains Create and Insert statements.
   - `question.txt` - Contains the challenge description.
   - `solution.sql` - Contains the challenge solution with in-line explanations as comments.
 
 - `day02/`
+  - `create_and_populate.sql`
   - `question.txt`
   - `solution.sql`
 
