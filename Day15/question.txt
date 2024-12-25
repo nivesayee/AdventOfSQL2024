@@ -1,0 +1,3 @@
+Using the list of areas you need to find which city the last sleigh_location is located in.
+
+Submit the city name only.

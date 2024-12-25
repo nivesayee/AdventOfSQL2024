@@ -1,0 +1,5 @@
+Challenge Requirements:
+
+Find all possible 60-minute meeting windows where all participating workshops are within their business hours
+Return results in UTC format
+Submit the earliest meeting start time that all offices can make.

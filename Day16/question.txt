@@ -1,0 +1,5 @@
+In which timezone has Santa spent the most time?
+
+Assume that each timestamp is when Santa entered the timezone.
+
+Ignore the last timestamp when Santa is in Lapland.

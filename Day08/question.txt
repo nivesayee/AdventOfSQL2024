@@ -1,0 +1,11 @@
+We want to find out how many managers the most over-managed employee has (levels deep).
+
+To do this, you're going to need to go through all the employees and find out who their manager is, and who their manger is, and who their manger is... you see where this is going
+
+You need to produce a report that calculates this management depth for all employees
+
+Order it by the number of levels in descending order.
+
+Submit the highest total number of levels of all the staff in the DB.
+
+If there are multiple with the same level submit that.

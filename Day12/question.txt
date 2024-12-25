@@ -1,0 +1,6 @@
+Find the toy with the second highest percentile of requests. Submit the name of the toy and the percentile value.
+
+If there are multiple values, choose the first occurrence.
+
+Order by percentile descending, then gift name ascending.
+

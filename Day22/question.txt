@@ -1,0 +1,5 @@
+Find all the elves with SQL as a skill
+
+Count each elf only once.
+
+Only the skill SQL counts, MySQL etc. does not count.

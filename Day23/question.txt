@@ -1,0 +1,7 @@
+Find the missing tags
+
+Assume the first and last tags are in the database
+
+Group them in islands, a group starts as the first missing element and finishes as the last missing element. A group is a sequential number of missing values.
+
+Submit the tags in the missing groups as in the example

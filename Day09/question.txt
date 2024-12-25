@@ -1,0 +1,8 @@
+Rudolph is retiring as lead reindeer, and Santa needs to analyze each reindeer's speed records to choose the new leader.
+
+To do this you need to:
+
+Calculate the average speed for each reindeer in each exercise type, excluding Rudolf.
+Find the highest average speed for each reindeer amongst those average speeds.
+Select the top 3 reindeer based on their highest average speed. Round the score to 2 decimal places.
+Enter the name and score of the top 3 reindeer in the format name,highest_average_score, but remember Rudolph is retiring so don't pick him.

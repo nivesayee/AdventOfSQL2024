@@ -1,0 +1,3 @@
+How much total salary was paid to all employees including those bonuses?
+
+Employees will receive a bonus if their last performance review score is higher than the average last performance review score of all employees. The bonus is 15% extra on top of their salary.

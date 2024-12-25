@@ -1,0 +1,5 @@
+Find the quarter with the highest growth rate relative to the previous quarter's sales figures
+
+Order by growth rate descending
+
+Submit the year and quarter in the format YYYY,Q
